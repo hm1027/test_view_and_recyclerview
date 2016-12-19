@@ -1,0 +1,1 @@
+include ':just4test', ':sample', ':base-adapter-library', ':baseadapter-recyclerview', ':testcustomview', ':javalib', ':bledemo'

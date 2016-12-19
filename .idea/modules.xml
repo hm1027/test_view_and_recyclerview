@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/base-adapter-library/base-adapter-library.iml" filepath="$PROJECT_DIR$/base-adapter-library/base-adapter-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseadapter-recyclerview/baseadapter-recyclerview.iml" filepath="$PROJECT_DIR$/baseadapter-recyclerview/baseadapter-recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bledemo/bledemo.iml" filepath="$PROJECT_DIR$/bledemo/bledemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javalib/javalib.iml" filepath="$PROJECT_DIR$/javalib/javalib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/just4test/just4test.iml" filepath="$PROJECT_DIR$/just4test/just4test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testcustomview/testcustomview.iml" filepath="$PROJECT_DIR$/testcustomview/testcustomview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspace_android_studio.iml" filepath="$PROJECT_DIR$/workspace_android_studio.iml" />
+    </modules>
+  </component>
+</project>

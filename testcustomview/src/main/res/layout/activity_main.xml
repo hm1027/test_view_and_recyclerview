@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bydauto.car.i_key.testcustomview.MainActivity">
+
+    <!--<com.bydauto.car.i_key.testcustomview.view.CustomView-->
+    <!--android:id="@+id/customview"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_centerInParent="true"-->
+    <!--custom:titleColor="#FF0000"-->
+    <!--custom:titleText="1234"-->
+    <!--custom:titleTextSize="40sp"-->
+    <!--/>-->
+    <!--<com.bydauto.car.i_key.testcustomview.view.TestView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"/>-->
+    <com.bydauto.car.i_key.testcustomview.view.RegionClickView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</RelativeLayout>
